@@ -1,7 +1,7 @@
 # stock-analysis
 
 ## Module 1 in VBA 
-    Analyzed the DQ stock in the year 2018 based on the data provided. Calculated total daily volume of stocks traded , rate of return for the entire year. This would allow Steve to find the state of DQ stock in the past year and to recommend his Dad about his DQ stock investment.
+   Analyzed the DQ stock in the year 2018 based on the data provided. Calculated total daily volume of stocks traded , rate of return for the entire year. This would allow Steve to find the state of DQ stock in the past year and to recommend his Dad about his DQ stock investment.
 ![DQ Analysis for 2018](images/DQStockAnalysis.png)
     
 ## Module 4 in VBA
