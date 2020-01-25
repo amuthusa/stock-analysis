@@ -1,5 +1,8 @@
 # stock-analysis
 
+## Summary
+   This repository does analysis of green stocks for a given year. [Green stocks](green_stocks.xlsm) is an Excel file with macros which has green stock data for the following years 2017 and 2018. The main idea is to analysis and recommend one or more green stock based on their performance.
+
 ## Module 1 in VBA (subroutine name: DQAnalysis)
    Analyzed the DQ stock in the year 2018 based on the data provided. Calculated total daily volume of stocks traded , rate of return for the entire year. This would allow Steve to find the state of DQ stock and to recommend his Dad about his DQ stock investment.\
    ![DQ Analysis for 2018](images/DQStockAnalysis.png)
